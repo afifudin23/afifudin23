@@ -29,7 +29,7 @@
 
 #
 
-#### Skills
+### Skills
 
 <!-- Languages -->
 <div>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
-#### Database
+### Database
 
 <!-- Database -->
 
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-#### Design
+### Design
 
 <!-- Design -->
 <div>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-#### Operating System
+### Operating System
 
 <!-- OS -->
 <div>
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 </div>
 
-#### Tools
+### Tools
 
 <!-- Tools -->
 <div>
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" />
 </div>
 
-#### ORM
+### ORM
 
 <!-- ORM -->
 <div>
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </div>
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 
 <!-- Framework -->
 <div>
