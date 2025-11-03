@@ -3,7 +3,7 @@
   <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=50&duration=4000&pause=1000&color=FFFFFF&background=703DFF00&center=true&width=800&height=150&lines=My+name+is+Afifudin+Nurfalah+%F0%9F%98%81;I'm+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&width=800&height=150&lines=My+name+is+Afifudin+Nurfalah+%F0%9F%98%81;I'm+a+Software+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: **afifu5882@gmail.com**
 - ⚡ Fun fact: I love clean code as much as I love good coffee ☕
 
-<a href="https://www.linkedin.com/in/afifudin23">
+<a href="https://www.linkedin.com/in/afifudin23/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
