@@ -1,9 +1,7 @@
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+
 <div align="center">
-  <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-  </h1>
-
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&width=800&height=150&lines=My+name+is+Afifudin+Nurfalah+%F0%9F%98%81;I'm+a+Software+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-
 </div>
 
 - 🌏 I'm a passionate developer from **Indonesia**
@@ -14,19 +12,30 @@
 - ⚡ Fun fact: I love clean code as much as I love good coffee ☕
 
 <a href="https://www.linkedin.com/in/afifudin23/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br/><br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=afifudin23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=afifudin23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=afifudin23&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afifudin23&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=afifudin23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=afifudin23&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 
-### Skills
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=afifudin23&locale=en&mode=daily&theme=tokyonight&border_radius=5" height="150" alt="streak graph" />
+</div>
 
-<!-- Languages -->
+<!--
+  Activity graph dimatikan sementara karena server-nya sedang down.
+  Hapus tanda komentar ini kalau layanannya sudah normal lagi (atau ganti domain ke hasil deploy Vercel kamu sendiri).
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afifudin23&radius=16&theme=tokyo-night&area=true" width="100%" alt="activity graph" />
+</div>
+-->
+
+### Skills
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,8 +50,6 @@
 
 ### Database
 
-<!-- Database -->
-
 <div>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -54,16 +61,12 @@
 
 ### Design
 
-<!-- Design -->
-
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
 ### Operating System
-
-<!-- OS -->
 
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -73,8 +76,6 @@
 </div>
 
 ### Tools
-
-<!-- Tools -->
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -88,8 +89,6 @@
 
 ### ORM
 
-<!-- ORM -->
-
 <div>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
@@ -98,8 +97,6 @@
 </div>
 
 ### Frameworks & Libraries
-
-<!-- Framework -->
 
 <div>
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -122,6 +119,7 @@
 </div>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afifudin23/afifudin23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afifudin23/afifudin23/output/pacman-contribution-graph.svg">
